@@ -6,10 +6,9 @@
     <div class="col-lg-3 col-md-6 d-flex">
       <i class="bi bi-geo-alt icon"></i>
       <div>
-        <h4>Address</h4>
+        <h4>Alamat</h4>
         <p>
-          A108 Adam Street <br>
-          New York, NY 535022 - US<br>
+          Jakarta Selatan<br>
         </p>
       </div>
 
@@ -18,10 +17,10 @@
     <div class="col-lg-3 col-md-6 footer-links d-flex">
       <i class="bi bi-telephone icon"></i>
       <div>
-        <h4>Reservations</h4>
+        <h4>Pusat Bantuan</h4>
         <p>
           <strong>Phone:</strong> +1 5589 55488 55<br>
-          <strong>Email:</strong> info@example.com<br>
+          <strong>Email:</strong> wongmantap2605@gmail.com<br>
         </p>
       </div>
     </div>
@@ -29,10 +28,10 @@
     <div class="col-lg-3 col-md-6 footer-links d-flex">
       <i class="bi bi-clock icon"></i>
       <div>
-        <h4>Opening Hours</h4>
+        <h4>Jam Buka</h4>
         <p>
-          <strong>Mon-Sat: 11AM</strong> - 23PM<br>
-          Sunday: Closed
+          <strong>Mon-Fri: 10AM</strong> - 18PM<br>
+          Saturday-Sunday: Closed
         </p>
       </div>
     </div>
@@ -59,7 +58,8 @@
     <!-- You can delete the links only if you purchased the pro version. -->
     <!-- Licensing information: https://bootstrapmade.com/license/ -->
     <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/ -->
-    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a><br>
+    Modified by Wong Mantap House
   </div>
 </div>
 
@@ -71,13 +71,6 @@
 <div id="preloader"></div>
 
 <!-- Vendor JS Files -->
-<!-- <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script> -->
-<!-- <script src="assets/vendor/aos/aos.js"></script> -->
-<!-- <script src="assets/vendor/glightbox/js/glightbox.min.js"></script> -->
-<!-- <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script> -->
-<!-- <script src="assets/vendor/swiper/swiper-bundle.min.js"></script> -->
-<!-- <script src="assets/vendor/php-email-form/validate.js"></script> -->
-
 <script src="{{ asset('/assets/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
 <script src="{{ asset('/assets/vendor/aos/aos.js')}}"></script>
 <script src="{{ asset('/assets/vendor/glightbox/js/glightbox.min.js')}}"></script>
@@ -86,7 +79,6 @@
 <script src="{{ asset('/assets/vendor/php-email-form/validate.js')}}"></script>
 
 <!-- Template Main JS File -->
-<!-- <script src="assets/js/main.js"></script> -->
 
 <script src="{{ asset('/assets/js/main.js')}}"></script>
 
